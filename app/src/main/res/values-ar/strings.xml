@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MediRappelDZ</string>
+    <string name="notif_title">💊 %1$s — وقت الدواء</string>
+    <string name="notif_body">الساعة %1$s. حان وقت تناول الدواء.</string>
+    <string name="action_taken">تم ✓</string>
+    <string name="action_skipped">تخطي</string>
+    <string name="home_title">أدويتي</string>
+    <string name="home_empty">لا توجد أدوية.\nاضغط + لإضافة أول دواء.</string>
+    <string name="add_title">إضافة</string>
+    <string name="edit_title">تعديل</string>
+    <string name="field_name">اسم الدواء *</string>
+    <string name="field_dosage">الجرعة (مثال: قرص واحد، 5 مل)</string>
+    <string name="field_notes">ملاحظات (اختياري)</string>
+    <string name="field_times">أوقات التناول * (HH:mm، مفصولة بفواصل)</string>
+    <string name="save">حفظ</string>
+    <string name="cancel">إلغاء</string>
+    <string name="delete">حذف</string>
+    <string name="history_title">السجل</string>
+    <string name="settings_title">الإعدادات</string>
+    <string name="exact_alarm_title">التنبيهات الدقيقة</string>
+    <string name="exact_alarm_desc">يستخدم التطبيق التنبيهات الدقيقة فقط للرنين في وقت كل جرعة حتى لو كانت الشاشة مطفأة. لا تغادر أي بيانات هاتفك.</string>
+    <string name="exact_alarm_grant">السماح بالتنبيهات الدقيقة</string>
+    <string name="exact_alarm_ok">مسموح ✓ — ستصلك التذكيرات في وقتها.</string>
+    <string name="exact_alarm_missing">غير مسموح — قد تتأخر التذكيرات.</string>
+    <string name="offline_note">يعمل دون إنترنت 100 %% — لا تغادر أي بيانات هذا الجهاز.</string>
+    <string name="adherence_week">الالتزام (7 أيام): %1$d %%</string>
+    <string name="taken">تم</string>
+    <string name="skipped">متخطى</string>
+    <string name="confirm_delete">حذف هذا الدواء وتنبيهاته؟</string>
+</resources>
